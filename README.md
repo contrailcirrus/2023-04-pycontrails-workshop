@@ -13,7 +13,9 @@
 
 The [Notebooks](notebooks) directory contain [Jupyter Notebooks](https://jupyter.org/) used in the workshop.
 
+Notebooks reference data staged in [`gs://2023-04-pycontrails-workshop`](https://console.cloud.google.com/storage/browser/2023-04-pycontrails-workshop)
+
 ## Setup
 
-- The simplest way to get started is to use [Google Colab](https://colab.research.google.com/).
-  Colab enables notebooks to be run in the cloud without local installation.
+The simplest way to get started is to use [Google Colab](https://colab.research.google.com/).
+Colab enables notebooks to be run in the cloud without local installation.

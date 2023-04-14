@@ -1,7 +1,9 @@
 # `pycontrails` Workshop
 
-> 2023 April 19 - 20  \
-> Imperial College London
+- **Date**: 2023 April 19 - 20
+- **Location**: [Skempton Building, Imperial College London](https://goo.gl/maps/9oBGJ2eUwPj5GyuU7)
+- [Agenda](https://drive.google.com/drive/folders/10-4j2nsayJnB5kUCkZkfyKBL7HwnrNIN)
+
 
 ## Presentations
 

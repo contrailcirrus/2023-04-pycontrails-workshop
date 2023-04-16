@@ -3,6 +3,8 @@
 *.nc4
 *.pq
 *.csv
+*.tif
+*.png
 
 # notebooks
 .ipynb_checkpoints

@@ -5,6 +5,7 @@
 *.csv
 *.tif
 *.png
+notebooks/data
 
 # notebooks
 .ipynb_checkpoints

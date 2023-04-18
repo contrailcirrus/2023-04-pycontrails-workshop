@@ -29,6 +29,7 @@ Notebooks reference data staged in [`gs://2023-04-pycontrails-workshop`](https:/
 - [Create GOES Tiles](notebooks/03-GOES-tiles.ipynb): Create map tiles from GOES imagery
 - [Compare CoCiP outputs to GOES](notebooks/03-CoCiP-satellite.ipynb): Plot CoCiP contrail outputs on top of GOES imagery
 - ** [Persistent contrail regions](notebooks/03-PCR.ipynb): Identify ice super-satured regions and regions that satisfy the Schmidt-Appleman criteria to calculate persistent contrail regions.
+- [Model Levels](): Use ECMWF data reported on model levels
 
 ### References
 

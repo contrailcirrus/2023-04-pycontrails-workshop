@@ -29,6 +29,8 @@ Notebooks reference data staged in [`gs://2023-04-pycontrails-workshop`](https:/
 
 ### Tutorials
 
+- [Satellite Imagery](https://github.com/google-research/google-research/blob/master/contrails/demos/load_goes_data.ipynb) (Google Research)
+
 ## Setup
 
 The simplest way to get started is to use [Google Colab](https://colab.research.google.com/).

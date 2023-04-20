@@ -29,7 +29,18 @@ Notebooks reference data staged in [`gs://2023-04-pycontrails-workshop`](https:/
 
 ### Tutorials
 
+- [03-ADSB-Processing](notebooks/03-ADSB-Processing.ipynb)
+- [03-Aircraft-Performance](notebooks/03-Aircraft-Performance.ipynb)
+- [03-CoCiP-satellite](notebooks/03-CoCiP-satellite.ipynb)
+- [03-CoCiP-single](notebooks/03-CoCiP-single.ipynb)
+- [03-GOES-tiles](notebooks/03-GOES-tiles.ipynb)
 - [Satellite Imagery](https://github.com/google-research/google-research/blob/master/contrails/demos/load_goes_data.ipynb) (Google Research)
+
+## [Contrails API](https://api.contrails.org) Introduction
+
+- [04-API-Get-started](notebooks/04-API-Get-started.ipynb)
+- [04-API-Fleet-mode](notebooks/04-API-Fleet-mode.ipynb)
+- [04-API-Polygons](notebooks/04-API-Polygons.ipynb)
 
 ## Setup
 
